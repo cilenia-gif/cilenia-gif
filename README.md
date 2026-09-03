@@ -1,4 +1,4 @@
-# Hi, I'm Clara
+## Hey there!
 
 I'm currently doing a Master's in Economics, focusing on **quantitative economics and data science**.
 
