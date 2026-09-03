@@ -1,4 +1,4 @@
-### Hey there!
+### Hey there! 
 
 My name is C. Ilenia and I'm currently doing a Master's in Economics, focusing specifically on **quantitative economics and data science**.
 
