@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Clara
 
-<!--
-**cilenia-gif/cilenia-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently doing a Master's in Economics, focusing on **quantitative economics and data science**.
 
-Here are some ideas to get you started:
+Most of my coding started with econometrics, data analysis and university projects. Somewhere along the way I got curious about what happens outside the notebook, so I'm currently learning more about computer science, Linux and electronics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I mostly work with **Python, R and SQL**, and I'm slowly adding **C, Git and hardware** to the mix.
+
+Right now I'm working my way through CS50, learning electronics from the basics, and generally trying to become a better programmer.
+
+When I'm not doing that, I'm usually interested in markets, old computers, gloomy weather, forests, cyberpunk and strange little machines.
+
+Still figuring out how all of these things fit together.
