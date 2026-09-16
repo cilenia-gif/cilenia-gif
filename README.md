@@ -1,6 +1,6 @@
 ### Hey there! 
 
-My name is C. Ilenia and I'm currently doing a Master's in Economics, focusing specifically on **quantitative economics and data science**.
+My name is Clara and I'm currently doing a Master's in Economics, focusing specifically on **quantitative economics and data science**.
 
 Most of my coding started in university first through one year in engineering and later on within my economics studies in subjects such as econometrics, data analysis and several university projects. Somewhere along the way I've become increasingly curious about what happens further down the stack from software to computer systems and eventually hardware.
 
