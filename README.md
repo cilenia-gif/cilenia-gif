@@ -6,7 +6,7 @@ Most of my coding started in university first through one year in engineering an
 
 I mostly work with Python, R and SQL, and I'm slowly adding C / C++, Git and hardware to the mix. I will also start learning MATLAB. 
 
-Right now I'm working next to my uni work my way through the online CS50 introduction to computer science course, learning electronics from the basics, and generally trying to become a better programmer.
+Right now I'm working next to my uni work my way through the online CS50 introduction to computer science course, trying to become a better programmer.
 
 When I'm not doing that, I'm usually interested in markets, old computers, gloomy weather, forests, cyberpunk and strange little machines.
 
